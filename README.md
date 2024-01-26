@@ -1,7 +1,7 @@
-# Meteomatic-end-to-end-data-engineering-project
+### Meteomatic-end-to-end-data-engineering-project
 In this project, we will build an ETL pipeline using the METEOMATIC API on AWS and AZURE. I retreive data frim METEOMATIC API, transform it to desired format, and load it an Azure Blob Storage. 
 
-Projet Goals
+## Projet Goals
 
 1. Data Ingestion - Build a mechanism to ingest data from different sources
 2. ETL System - We are getting data in raw format, transforming this data into the proper format
